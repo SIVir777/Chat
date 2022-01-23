@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "longpolling.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
